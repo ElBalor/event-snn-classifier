@@ -1,0 +1,27 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+#  SNN CLASSIFIER - DEPENDENCIES
+#  Eric Yaka || The Digital Necromancer
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ── Core Deep Learning ─────────────────────────────────────────────────────────
+torch>=2.0.0
+torchvision>=0.15.0
+
+# ── Scientific Computing ──────────────────────────────────────────────────────
+numpy>=1.24.0
+scipy>=1.10.0
+
+# ── Visualization ─────────────────────────────────────────────────────────────
+matplotlib>=3.7.0
+
+# ── Progress & Logging ────────────────────────────────────────────────────────
+tqdm>=4.65.0
+tensorboard>=2.12.0
+
+# ── Neuromorphic Libraries ────────────────────────────────────────────────────
+snntorch>=0.7.0        # Spiking neural network utilities
+tonic>=1.0.0           # Neuromorphic event-based vision datasets
+
+# ── Optional: GPU Acceleration ────────────────────────────────────────────────
+# cupy-cuda11x>=12.0.0  # Uncomment for CUDA 11.x
+# cupy-cuda12x>=12.0.0  # Uncomment for CUDA 12.x
