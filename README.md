@@ -1,6 +1,7 @@
-# 🧠 Experiment 2: Event-Based Vision SNN Classifier
+# 🧠 Whisper-Neuron-SNN-Classifier
+ Experiment 2: Event-Based Vision SNN Classifier
 
-## *"Neuromorphic classification with surrogate gradients"*
+##  *"Neuromorphic classification with surrogate gradients"*
 
 ---
 
