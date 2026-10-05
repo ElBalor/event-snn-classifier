@@ -482,8 +482,6 @@ See the `LICENSE` file in this repository for the full legal text.
 
 **"In the spike, we trust"**
 
-*Eric Yaka || The Digital Necromancer*
-
 *Part of the Temporal Signal Filter Lab*
 
 *From the Grimoire of Elbàlor — The Digital Necromancer 💀🔥*
